@@ -1,4 +1,4 @@
-# SSKDNet
+# CRCDNet
 This project provides the code for "Cross-resolution collaborative distilaltion network for Low-resolution salient object detection in single-modal and multi-modal images", which is submitted to CGI2026(TVCJ track).
    
    
@@ -30,3 +30,4 @@ We use down-sampling operator to process each dataset mentioned in paper. i.e., 
 
 
    
+
